@@ -4,7 +4,7 @@
 # Mikes Heading 1 #
 Mike added this line using the pencil edit button inside Github...
 
-## Mieks cool Heading2 ##
+## Mike's cool Heading2 ##
 The number 1
 1. Item 1 period item 1
 2 period on the next line
